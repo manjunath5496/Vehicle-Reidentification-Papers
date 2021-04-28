@@ -46,111 +46,94 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(24).pdf" style="text-decoration:none;">Multi-Camera Vehicle Tracking with Powerful Visual Features and Spatial-Temporal Cue</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(25).pdf" style="text-decoration:none;">Multi-Domain Learning and Identity Mining for Vehicle Re-Identification</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(26).pdf" style="text-decoration:none;">Part-regularized Near-duplicate Vehicle Re-identification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(27).pdf" style="text-decoration:none;">Joint Monocular 3D Vehicle Detection and Tracking</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(28).pdf" style="text-decoration:none;">Deep Feature Fusion with Multiple Granularity for Vehicle Re-identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(29).pdf" style="text-decoration:none;">Multi-View Vehicle Re-Identification using Temporal Attention Model and Metadata Re-ranking </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(30).pdf" style="text-decoration:none;">Multi-Task Mutual Learning for Vehicle Re-Identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(31).pdf" style="text-decoration:none;">A Dual-Path ModelWith Adaptive Attention For Vehicle Re-Identification</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(32).pdf" style="text-decoration:none;">Attention Driven Vehicle Re-identification and Unsupervised Anomaly Detection for Traffic Understanding</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(33).pdf" style="text-decoration:none;">StRDAN: Synthetic-to-Real Domain Adaptation Network for Vehicle Re-Identification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(34).pdf" style="text-decoration:none;">Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(35).pdf" style="text-decoration:none;">Further Non-local and Channel Attention Networks for Vehicle Re-identification</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(36).pdf" style="text-decoration:none;">Highway Vehicle Counting in Compressed Domain</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(37).pdf" style="text-decoration:none;">Supervised Joint Domain Learning for Vehicle Re-Identification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(38).pdf" style="text-decoration:none;">VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(39).pdf" style="text-decoration:none;">Vehicle Re-identification with Location and Time Stamps</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(40).pdf" style="text-decoration:none;">Unsupervised Vehicle Re-Identification using Triplet Networks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(41).pdf" style="text-decoration:none;">Parsing-based View-aware Embedding Network for Vehicle Re-Identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(42).pdf" style="text-decoration:none;">Vehicle Re-Identification in Multi-Camera scenarios based on Ensembling Deep Learning Features</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(43).pdf" style="text-decoration:none;">The 4th AI City Challenge</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(44).pdf" style="text-decoration:none;">The 2018 NVIDIA AI City Challenge</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(45).pdf" style="text-decoration:none;">The 2019 AI City Challenge</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(46).pdf" style="text-decoration:none;">Vehicle Re-identification with Learned Representation and Spatial Verification and Abnormality Detection with Multi-Adaptive Vehicle Detectors for Traffic Video Analysis</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(47).pdf" style="text-decoration:none;">Cross-View GAN Based Vehicle Generation for Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(48).pdf" style="text-decoration:none;">Towards Real-Time Systems for Vehicle Re-Identification, Multi-Camera Tracking, and Anomaly Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(49).pdf" style="text-decoration:none;">CarFusion: Combining Point Tracking and Part Detection for Dynamic 3D Reconstruction of Vehicles</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(50).pdf" style="text-decoration:none;">Dual Embedding Expansion for Vehicle Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(51).pdf" style="text-decoration:none;">Comparative Study of Various Losses for Vehicle Re-identification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(52).pdf" style="text-decoration:none;">Learning Deep Neural Networks for Vehicle Re-ID with Visual-spatio-temporal Path Proposals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(53).pdf" style="text-decoration:none;">BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(54).pdf" style="text-decoration:none;">Graph@FIT Submission to the NVIDIA AI City Challenge 2018</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(55).pdf" style="text-decoration:none;">Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(56).pdf" style="text-decoration:none;">Multi-camera vehicle tracking and re-identification based on visual and spatial-temporal features </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(57).pdf" style="text-decoration:none;">CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(58).pdf" style="text-decoration:none;">PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(59).pdf" style="text-decoration:none;">Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(60).pdf" style="text-decoration:none;">iTASK - Intelligent Traffic Analysis Software Kit </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(61).pdf" style="text-decoration:none;">Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(62).pdf" style="text-decoration:none;">Vehicle Re-identification in Aerial Imagery: Dataset and Approach</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(63).pdf" style="text-decoration:none;">Delving into Robust Object Detection from Unmanned Aerial Vehicles: A Deep Nuisance Disentanglement Approach</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(64).pdf" style="text-decoration:none;">Vehicle Re-Identification with the Space-Time Prior</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(65).pdf" style="text-decoration:none;">Dual-Mode Vehicle Motion Pattern Learning for High Performance Road Traffic Anomaly Detection </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(66).pdf" style="text-decoration:none;">Exploiting Multi-Grain Ranking Constraints for Precisely Searching Visually-similar Vehicles</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(67).pdf" style="text-decoration:none;">Visualizing the Invisible: Occluded Vehicle Segmentation and Recovery</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(68).pdf" style="text-decoration:none;">A Large-Scale Car Dataset for Fine-Grained Categorization and Verification</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(69).pdf" style="text-decoration:none;">Vehicle Re-Identification for Automatic Video Traffic Surveillance</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(70).pdf" style="text-decoration:none;">FCN-rLSTM: Deep Spatio-Temporal Neural Networks for Vehicle Counting in City Cameras</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(71).pdf" style="text-decoration:none;">Going Beyond Real Data: A Robust Visual Representation for Vehicle Re-identification</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(72).pdf" style="text-decoration:none;">VehicleNet: Learning Robust Feature Representation for Vehicle Re-identification</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(73).pdf" style="text-decoration:none;">Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(74).pdf" style="text-decoration:none;">VOC-ReID: Vehicle Re-identification based on Vehicle-Orientation-Camera</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Reidentification-Papers/blob/master/v(75).pdf" style="text-decoration:none;">Attribute-guided Feature Extraction and Augmentation Robust Learning for Vehicle Re-identification</a></li>                        
 </ul>
   
   
